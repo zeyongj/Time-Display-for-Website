@@ -1,4 +1,4 @@
-# Time-Display-for-Website
+# Time Display for Website
 
 ## Description
 - A small tool to display current time on website.
