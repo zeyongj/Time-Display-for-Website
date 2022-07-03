@@ -2,6 +2,7 @@
 
 ## Description
 - A small tool to display current time on website.
+- Time Format: 24hr.
 - Create a small text box on the website and use the code provided in `time.js`.
 
 ## Contents
